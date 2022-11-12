@@ -20,7 +20,12 @@ jobs:
       - node/install:
           install-yarn: true
           node-version: '16.13'
-      - run: node --version
+      - run: |
+          node --version
+          npm install -D
+          cd ./test/smoke/template
+          npm install -D
+
 
 # Invoke jobs via workflows
 # See: https://circleci.com/docs/2.0/configuration-reference/#workflows
