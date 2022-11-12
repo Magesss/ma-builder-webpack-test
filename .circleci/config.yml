@@ -24,7 +24,7 @@ jobs:
           node --version
           yarn config set registry https://registry.npmmirror.com/
           yarn install -D
-          cp ./test/smoke/template
+          cd ./test/smoke/template
           yarn install -D
           ls
 
