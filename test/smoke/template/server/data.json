@@ -1,0 +1,2249 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "item_type": "path",
+        "category": "",
+        "product": {
+          "title": "",
+          "subtitle": "",
+          "cover": "",
+          "total_lesson": 0,
+          "video_duration": "",
+          "uint": "",
+          "author_name": "",
+          "author_intro": "",
+          "id": 0,
+          "type": "",
+          "aid": 0,
+          "subscribe": false
+        },
+        "article": {
+          "title": "",
+          "id": 0,
+          "video_time": "",
+          "video_duration": 0,
+          "video_cover": "",
+          "content": "",
+          "ctime": 0,
+          "product_title": "",
+          "product_author": "",
+          "author_introduction": "",
+          "product_type": "",
+          "product_id": 0,
+          "subtitle": "",
+          "price": 0,
+          "subscribe": false,
+          "is_preview": false,
+          "topic_id": 0,
+          "square_img": "",
+          "can_appoint": false
+        },
+        "collection": {
+          "title": "",
+          "subtitle": "",
+          "author_name": "",
+          "introduce": "",
+          "count": 0,
+          "uint": "",
+          "id": 0,
+          "cover": "",
+          "type": 0,
+          "play_count": 0
+        },
+        "user": {
+          "uid": 0,
+          "avatar": "",
+          "name": "",
+          "fans": 0,
+          "has_sub": false,
+          "note": "",
+          "description": "",
+          "is_friend": false,
+          "is_pvip": false
+        },
+        "training": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "stage": 0,
+          "begin_time": 0,
+          "description": "",
+          "url": "",
+          "can_sign_up": false
+        },
+        "experience": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "description": "",
+          "url": ""
+        },
+        "infoq": {
+          "title": "",
+          "summary": "",
+          "author_name": "",
+          "pub_time": 0,
+          "url": ""
+        },
+        "path": {
+          "id": 11,
+          "title": "<em>Go</em>工程师",
+          "learn_count": 711593,
+          "product_count": 16
+        },
+        "series": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "score": 2
+      },
+      {
+        "item_type": "series",
+        "category": "",
+        "product": {
+          "title": "",
+          "subtitle": "",
+          "cover": "",
+          "total_lesson": 0,
+          "video_duration": "",
+          "uint": "",
+          "author_name": "",
+          "author_intro": "",
+          "id": 0,
+          "type": "",
+          "aid": 0,
+          "subscribe": false
+        },
+        "article": {
+          "title": "",
+          "id": 0,
+          "video_time": "",
+          "video_duration": 0,
+          "video_cover": "",
+          "content": "",
+          "ctime": 0,
+          "product_title": "",
+          "product_author": "",
+          "author_introduction": "",
+          "product_type": "",
+          "product_id": 0,
+          "subtitle": "",
+          "price": 0,
+          "subscribe": false,
+          "is_preview": false,
+          "topic_id": 0,
+          "square_img": "",
+          "can_appoint": false
+        },
+        "collection": {
+          "title": "",
+          "subtitle": "",
+          "author_name": "",
+          "introduce": "",
+          "count": 0,
+          "uint": "",
+          "id": 0,
+          "cover": "",
+          "type": 0,
+          "play_count": 0
+        },
+        "user": {
+          "uid": 0,
+          "avatar": "",
+          "name": "",
+          "fans": 0,
+          "has_sub": false,
+          "note": "",
+          "description": "",
+          "is_friend": false,
+          "is_pvip": false
+        },
+        "training": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "stage": 0,
+          "begin_time": 0,
+          "description": "",
+          "url": "",
+          "can_sign_up": false
+        },
+        "experience": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "description": "",
+          "url": ""
+        },
+        "infoq": {
+          "title": "",
+          "summary": "",
+          "author_name": "",
+          "pub_time": 0,
+          "url": ""
+        },
+        "path": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "series": {
+          "id": 11,
+          "title": "<em>Go</em>相关课程",
+          "learn_count": 135232,
+          "product_count": 10
+        },
+        "score": 2
+      },
+      {
+        "item_type": "training",
+        "category": "",
+        "product": {
+          "title": "",
+          "subtitle": "",
+          "cover": "",
+          "total_lesson": 0,
+          "video_duration": "",
+          "uint": "",
+          "author_name": "",
+          "author_intro": "",
+          "id": 0,
+          "type": "",
+          "aid": 0,
+          "subscribe": false
+        },
+        "article": {
+          "title": "",
+          "id": 0,
+          "video_time": "",
+          "video_duration": 0,
+          "video_cover": "",
+          "content": "",
+          "ctime": 0,
+          "product_title": "",
+          "product_author": "",
+          "author_introduction": "",
+          "product_type": "",
+          "product_id": 0,
+          "subtitle": "",
+          "price": 0,
+          "subscribe": false,
+          "is_preview": false,
+          "topic_id": 0,
+          "square_img": "",
+          "can_appoint": false
+        },
+        "collection": {
+          "title": "",
+          "subtitle": "",
+          "author_name": "",
+          "introduce": "",
+          "count": 0,
+          "uint": "",
+          "id": 0,
+          "cover": "",
+          "type": 0,
+          "play_count": 0
+        },
+        "user": {
+          "uid": 0,
+          "avatar": "",
+          "name": "",
+          "fans": 0,
+          "has_sub": false,
+          "note": "",
+          "description": "",
+          "is_friend": false,
+          "is_pvip": false
+        },
+        "training": {
+          "title": "<em>Go</em> 实战训练营",
+          "cover": "https://static001.geekbang.org/resource/image/42/6f/42e5f8d48d3ab18e0742936f3d4yy26f.png",
+          "author_name": "邓明",
+          "author_title": "某知名国际互联网公司高级工程师｜Beego PMC",
+          "stage": 1,
+          "begin_time": 1667750400,
+          "description": "成为通源码、懂原理、能实战的硬核 Go 工程师",
+          "url": "time://webview?url=https%3A%2F%2Fu.geekbang.org%2Fsubject%2Fgo2nd%2F100102402&title=Go+%E5%AE%9E%E6%88%98%E8%AE%AD%E7%BB%83%E8%90%A5",
+          "can_sign_up": true
+        },
+        "experience": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "description": "",
+          "url": ""
+        },
+        "infoq": {
+          "title": "",
+          "summary": "",
+          "author_name": "",
+          "pub_time": 0,
+          "url": ""
+        },
+        "path": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "series": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "score": 2
+      },
+      {
+        "item_type": "product",
+        "category": "",
+        "product": {
+          "title": "<em>Go</em>语言从入门到实战",
+          "subtitle": "简明高效的Go语言实战指南",
+          "cover": "https://static001.geekbang.org/resource/image/fe/dd/fe24e8a9bb726220a19330e1e9b518dd.jpg",
+          "total_lesson": 55,
+          "video_duration": "",
+          "uint": "55讲",
+          "author_name": "蔡超",
+          "author_intro": "Mobvista技术副总裁兼首席架构师，前亚马逊（中国）首席软件架构师",
+          "id": 100024001,
+          "type": "c3",
+          "aid": 0,
+          "subscribe": false
+        },
+        "article": {
+          "title": "",
+          "id": 0,
+          "video_time": "",
+          "video_duration": 0,
+          "video_cover": "",
+          "content": "",
+          "ctime": 0,
+          "product_title": "",
+          "product_author": "",
+          "author_introduction": "",
+          "product_type": "",
+          "product_id": 0,
+          "subtitle": "",
+          "price": 0,
+          "subscribe": false,
+          "is_preview": false,
+          "topic_id": 0,
+          "square_img": "",
+          "can_appoint": false
+        },
+        "collection": {
+          "title": "",
+          "subtitle": "",
+          "author_name": "",
+          "introduce": "",
+          "count": 0,
+          "uint": "",
+          "id": 0,
+          "cover": "",
+          "type": 0,
+          "play_count": 0
+        },
+        "user": {
+          "uid": 0,
+          "avatar": "",
+          "name": "",
+          "fans": 0,
+          "has_sub": false,
+          "note": "",
+          "description": "",
+          "is_friend": false,
+          "is_pvip": false
+        },
+        "training": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "stage": 0,
+          "begin_time": 0,
+          "description": "",
+          "url": "",
+          "can_sign_up": false
+        },
+        "experience": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "description": "",
+          "url": ""
+        },
+        "infoq": {
+          "title": "",
+          "summary": "",
+          "author_name": "",
+          "pub_time": 0,
+          "url": ""
+        },
+        "path": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "series": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "score": 2
+      },
+      {
+        "item_type": "product",
+        "category": "",
+        "product": {
+          "title": "<em>Go</em>进阶 · 分布式爬虫实战",
+          "subtitle": "构建企业级项目，进阶Go高级工程师",
+          "cover": "https://static001.geekbang.org/resource/image/00/25/00323a9968a2a80f15443f93d9065d25.jpg",
+          "total_lesson": 13,
+          "video_duration": "",
+          "uint": "60讲",
+          "author_name": "郑建勋",
+          "author_intro": "Go语言技术专家，《Go语言底层原理剖析》作者",
+          "id": 100124001,
+          "type": "c1",
+          "aid": 0,
+          "subscribe": false
+        },
+        "article": {
+          "title": "",
+          "id": 0,
+          "video_time": "",
+          "video_duration": 0,
+          "video_cover": "",
+          "content": "",
+          "ctime": 0,
+          "product_title": "",
+          "product_author": "",
+          "author_introduction": "",
+          "product_type": "",
+          "product_id": 0,
+          "subtitle": "",
+          "price": 0,
+          "subscribe": false,
+          "is_preview": false,
+          "topic_id": 0,
+          "square_img": "",
+          "can_appoint": false
+        },
+        "collection": {
+          "title": "",
+          "subtitle": "",
+          "author_name": "",
+          "introduce": "",
+          "count": 0,
+          "uint": "",
+          "id": 0,
+          "cover": "",
+          "type": 0,
+          "play_count": 0
+        },
+        "user": {
+          "uid": 0,
+          "avatar": "",
+          "name": "",
+          "fans": 0,
+          "has_sub": false,
+          "note": "",
+          "description": "",
+          "is_friend": false,
+          "is_pvip": false
+        },
+        "training": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "stage": 0,
+          "begin_time": 0,
+          "description": "",
+          "url": "",
+          "can_sign_up": false
+        },
+        "experience": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "description": "",
+          "url": ""
+        },
+        "infoq": {
+          "title": "",
+          "summary": "",
+          "author_name": "",
+          "pub_time": 0,
+          "url": ""
+        },
+        "path": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "series": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "score": 2
+      },
+      {
+        "item_type": "experience",
+        "category": "",
+        "product": {
+          "title": "",
+          "subtitle": "",
+          "cover": "",
+          "total_lesson": 0,
+          "video_duration": "",
+          "uint": "",
+          "author_name": "",
+          "author_intro": "",
+          "id": 0,
+          "type": "",
+          "aid": 0,
+          "subscribe": false
+        },
+        "article": {
+          "title": "",
+          "id": 0,
+          "video_time": "",
+          "video_duration": 0,
+          "video_cover": "",
+          "content": "",
+          "ctime": 0,
+          "product_title": "",
+          "product_author": "",
+          "author_introduction": "",
+          "product_type": "",
+          "product_id": 0,
+          "subtitle": "",
+          "price": 0,
+          "subscribe": false,
+          "is_preview": false,
+          "topic_id": 0,
+          "square_img": "",
+          "can_appoint": false
+        },
+        "collection": {
+          "title": "",
+          "subtitle": "",
+          "author_name": "",
+          "introduce": "",
+          "count": 0,
+          "uint": "",
+          "id": 0,
+          "cover": "",
+          "type": 0,
+          "play_count": 0
+        },
+        "user": {
+          "uid": 0,
+          "avatar": "",
+          "name": "",
+          "fans": 0,
+          "has_sub": false,
+          "note": "",
+          "description": "",
+          "is_friend": false,
+          "is_pvip": false
+        },
+        "training": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "stage": 0,
+          "begin_time": 0,
+          "description": "",
+          "url": "",
+          "can_sign_up": false
+        },
+        "experience": {
+          "title": "8 小时上手 <em>Go</em> 语言",
+          "cover": "https://static001.geekbang.org/resource/image/f4/78/f408e92ed9255c414a201022714a7478.png",
+          "author_name": "邓大明",
+          "author_title": "Beego PMC，Apache Dubbo Committer",
+          "description": "带你快速攻克 Go 语言基础难点",
+          "url": "time://webview?url=https%3A%2F%2Fu.geekbang.org%2Fsubject%2Fintro%2F100118301&title=8+%E5%B0%8F%E6%97%B6%E4%B8%8A%E6%89%8B+Go+%E8%AF%AD%E8%A8%80"
+        },
+        "infoq": {
+          "title": "",
+          "summary": "",
+          "author_name": "",
+          "pub_time": 0,
+          "url": ""
+        },
+        "path": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "series": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "score": 2
+      },
+      {
+        "item_type": "experience",
+        "category": "",
+        "product": {
+          "title": "",
+          "subtitle": "",
+          "cover": "",
+          "total_lesson": 0,
+          "video_duration": "",
+          "uint": "",
+          "author_name": "",
+          "author_intro": "",
+          "id": 0,
+          "type": "",
+          "aid": 0,
+          "subscribe": false
+        },
+        "article": {
+          "title": "",
+          "id": 0,
+          "video_time": "",
+          "video_duration": 0,
+          "video_cover": "",
+          "content": "",
+          "ctime": 0,
+          "product_title": "",
+          "product_author": "",
+          "author_introduction": "",
+          "product_type": "",
+          "product_id": 0,
+          "subtitle": "",
+          "price": 0,
+          "subscribe": false,
+          "is_preview": false,
+          "topic_id": 0,
+          "square_img": "",
+          "can_appoint": false
+        },
+        "collection": {
+          "title": "",
+          "subtitle": "",
+          "author_name": "",
+          "introduce": "",
+          "count": 0,
+          "uint": "",
+          "id": 0,
+          "cover": "",
+          "type": 0,
+          "play_count": 0
+        },
+        "user": {
+          "uid": 0,
+          "avatar": "",
+          "name": "",
+          "fans": 0,
+          "has_sub": false,
+          "note": "",
+          "description": "",
+          "is_friend": false,
+          "is_pvip": false
+        },
+        "training": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "stage": 0,
+          "begin_time": 0,
+          "description": "",
+          "url": "",
+          "can_sign_up": false
+        },
+        "experience": {
+          "title": "<em>Go</em> 工程师进阶14讲",
+          "cover": "https://static001.geekbang.org/resource/image/18/6c/184f018ba3922b726456cbc4932ba26c.png",
+          "author_name": "毛剑",
+          "author_title": "某互联网公司技术总监",
+          "description": "Go 工程师必学的四大知识点",
+          "url": "time://webview?url=https%3A%2F%2Fu.geekbang.org%2Fsubject%2Fintro%2F100110501&title=Go+%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%BF%9B%E9%98%B614%E8%AE%B2"
+        },
+        "infoq": {
+          "title": "",
+          "summary": "",
+          "author_name": "",
+          "pub_time": 0,
+          "url": ""
+        },
+        "path": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "series": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "score": 2
+      },
+      {
+        "item_type": "product",
+        "category": "",
+        "product": {
+          "title": "<em>Go</em>语言核心36讲",
+          "subtitle": "3个月带你通关Go语言",
+          "cover": "https://static001.geekbang.org/resource/image/53/ac/538e9d74e3627469d59201c1ee0d17ac.jpg",
+          "total_lesson": 55,
+          "video_duration": "",
+          "uint": "55讲",
+          "author_name": "郝林",
+          "author_intro": "《Go并发编程实战》作者，前轻松筹大数据负责人",
+          "id": 100013101,
+          "type": "c1",
+          "aid": 0,
+          "subscribe": false
+        },
+        "article": {
+          "title": "",
+          "id": 0,
+          "video_time": "",
+          "video_duration": 0,
+          "video_cover": "",
+          "content": "",
+          "ctime": 0,
+          "product_title": "",
+          "product_author": "",
+          "author_introduction": "",
+          "product_type": "",
+          "product_id": 0,
+          "subtitle": "",
+          "price": 0,
+          "subscribe": false,
+          "is_preview": false,
+          "topic_id": 0,
+          "square_img": "",
+          "can_appoint": false
+        },
+        "collection": {
+          "title": "",
+          "subtitle": "",
+          "author_name": "",
+          "introduce": "",
+          "count": 0,
+          "uint": "",
+          "id": 0,
+          "cover": "",
+          "type": 0,
+          "play_count": 0
+        },
+        "user": {
+          "uid": 0,
+          "avatar": "",
+          "name": "",
+          "fans": 0,
+          "has_sub": false,
+          "note": "",
+          "description": "",
+          "is_friend": false,
+          "is_pvip": false
+        },
+        "training": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "stage": 0,
+          "begin_time": 0,
+          "description": "",
+          "url": "",
+          "can_sign_up": false
+        },
+        "experience": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "description": "",
+          "url": ""
+        },
+        "infoq": {
+          "title": "",
+          "summary": "",
+          "author_name": "",
+          "pub_time": 0,
+          "url": ""
+        },
+        "path": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "series": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "score": 2
+      },
+      {
+        "item_type": "product",
+        "category": "",
+        "product": {
+          "title": "<em>Go</em> 并发编程实战课",
+          "subtitle": "鸟窝带你攻克Go并发编程难题",
+          "cover": "https://static001.geekbang.org/resource/image/79/33/793ceb8d080b463b633c777841842133.jpg",
+          "total_lesson": 22,
+          "video_duration": "",
+          "uint": "22讲",
+          "author_name": "晁岳攀（鸟窝）",
+          "author_intro": "前微博技术专家，知名微服务框架 rpcx 作者",
+          "id": 100061801,
+          "type": "c1",
+          "aid": 0,
+          "subscribe": false
+        },
+        "article": {
+          "title": "",
+          "id": 0,
+          "video_time": "",
+          "video_duration": 0,
+          "video_cover": "",
+          "content": "",
+          "ctime": 0,
+          "product_title": "",
+          "product_author": "",
+          "author_introduction": "",
+          "product_type": "",
+          "product_id": 0,
+          "subtitle": "",
+          "price": 0,
+          "subscribe": false,
+          "is_preview": false,
+          "topic_id": 0,
+          "square_img": "",
+          "can_appoint": false
+        },
+        "collection": {
+          "title": "",
+          "subtitle": "",
+          "author_name": "",
+          "introduce": "",
+          "count": 0,
+          "uint": "",
+          "id": 0,
+          "cover": "",
+          "type": 0,
+          "play_count": 0
+        },
+        "user": {
+          "uid": 0,
+          "avatar": "",
+          "name": "",
+          "fans": 0,
+          "has_sub": false,
+          "note": "",
+          "description": "",
+          "is_friend": false,
+          "is_pvip": false
+        },
+        "training": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "stage": 0,
+          "begin_time": 0,
+          "description": "",
+          "url": "",
+          "can_sign_up": false
+        },
+        "experience": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "description": "",
+          "url": ""
+        },
+        "infoq": {
+          "title": "",
+          "summary": "",
+          "author_name": "",
+          "pub_time": 0,
+          "url": ""
+        },
+        "path": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "series": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "score": 2
+      },
+      {
+        "item_type": "product",
+        "category": "",
+        "product": {
+          "title": "<em>Go</em> 语言项目开发实战",
+          "subtitle": "带你从0到1实现一个企业级 Go 项目",
+          "cover": "https://static001.geekbang.org/resource/image/ac/e6/ac3abf576a04e4e46593e5c732ffcce6.jpg",
+          "total_lesson": 61,
+          "video_duration": "",
+          "uint": "61讲",
+          "author_name": "孔令飞",
+          "author_intro": "腾讯云专家工程师，前Red Hat、联想云工程师",
+          "id": 100079601,
+          "type": "c1",
+          "aid": 0,
+          "subscribe": false
+        },
+        "article": {
+          "title": "",
+          "id": 0,
+          "video_time": "",
+          "video_duration": 0,
+          "video_cover": "",
+          "content": "",
+          "ctime": 0,
+          "product_title": "",
+          "product_author": "",
+          "author_introduction": "",
+          "product_type": "",
+          "product_id": 0,
+          "subtitle": "",
+          "price": 0,
+          "subscribe": false,
+          "is_preview": false,
+          "topic_id": 0,
+          "square_img": "",
+          "can_appoint": false
+        },
+        "collection": {
+          "title": "",
+          "subtitle": "",
+          "author_name": "",
+          "introduce": "",
+          "count": 0,
+          "uint": "",
+          "id": 0,
+          "cover": "",
+          "type": 0,
+          "play_count": 0
+        },
+        "user": {
+          "uid": 0,
+          "avatar": "",
+          "name": "",
+          "fans": 0,
+          "has_sub": false,
+          "note": "",
+          "description": "",
+          "is_friend": false,
+          "is_pvip": false
+        },
+        "training": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "stage": 0,
+          "begin_time": 0,
+          "description": "",
+          "url": "",
+          "can_sign_up": false
+        },
+        "experience": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "description": "",
+          "url": ""
+        },
+        "infoq": {
+          "title": "",
+          "summary": "",
+          "author_name": "",
+          "pub_time": 0,
+          "url": ""
+        },
+        "path": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "series": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "score": 2
+      },
+      {
+        "item_type": "product",
+        "category": "",
+        "product": {
+          "title": "Tony Bai · <em>Go</em>语言第一课",
+          "subtitle": "大师带路，快速上手Go语言",
+          "cover": "https://static001.geekbang.org/resource/image/e0/3e/e0yy692712f4ed16030e1174a9939d3e.jpg",
+          "total_lesson": 57,
+          "video_duration": "",
+          "uint": "57讲",
+          "author_name": "Tony Bai",
+          "author_intro": "资深架构师，tonybai.com博主",
+          "id": 100093501,
+          "type": "c1",
+          "aid": 0,
+          "subscribe": false
+        },
+        "article": {
+          "title": "",
+          "id": 0,
+          "video_time": "",
+          "video_duration": 0,
+          "video_cover": "",
+          "content": "",
+          "ctime": 0,
+          "product_title": "",
+          "product_author": "",
+          "author_introduction": "",
+          "product_type": "",
+          "product_id": 0,
+          "subtitle": "",
+          "price": 0,
+          "subscribe": false,
+          "is_preview": false,
+          "topic_id": 0,
+          "square_img": "",
+          "can_appoint": false
+        },
+        "collection": {
+          "title": "",
+          "subtitle": "",
+          "author_name": "",
+          "introduce": "",
+          "count": 0,
+          "uint": "",
+          "id": 0,
+          "cover": "",
+          "type": 0,
+          "play_count": 0
+        },
+        "user": {
+          "uid": 0,
+          "avatar": "",
+          "name": "",
+          "fans": 0,
+          "has_sub": false,
+          "note": "",
+          "description": "",
+          "is_friend": false,
+          "is_pvip": false
+        },
+        "training": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "stage": 0,
+          "begin_time": 0,
+          "description": "",
+          "url": "",
+          "can_sign_up": false
+        },
+        "experience": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "description": "",
+          "url": ""
+        },
+        "infoq": {
+          "title": "",
+          "summary": "",
+          "author_name": "",
+          "pub_time": 0,
+          "url": ""
+        },
+        "path": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "series": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "score": 2
+      },
+      {
+        "item_type": "article",
+        "category": "",
+        "product": {
+          "title": "",
+          "subtitle": "",
+          "cover": "",
+          "total_lesson": 0,
+          "video_duration": "",
+          "uint": "",
+          "author_name": "",
+          "author_intro": "",
+          "id": 0,
+          "type": "",
+          "aid": 0,
+          "subscribe": false
+        },
+        "article": {
+          "title": "WebAssembly将支持使用<em>Go</em>语言",
+          "id": 6096,
+          "video_time": "",
+          "video_duration": 0,
+          "video_cover": "https://static001.geekbang.org/resource/image/4y/da/4yyfb232bfbfbdcc6ed827c16b04a9da.jpg",
+          "content": "近日，新兴系统语言<em>Go</em>宣布，将在<em>GO</em>  1.11的编译器中，让开发者能直接把程序编译成WebAssembly，让字节码...",
+          "ctime": 1524092403,
+          "product_title": "极客视点",
+          "product_author": "极客时间编辑部",
+          "author_introduction": "极客时间编辑部",
+          "product_type": "p29",
+          "product_id": 100017001,
+          "subtitle": "提升你的技术洞见",
+          "price": 29900,
+          "subscribe": false,
+          "is_preview": true,
+          "topic_id": 0,
+          "square_img": "",
+          "can_appoint": false
+        },
+        "collection": {
+          "title": "",
+          "subtitle": "",
+          "author_name": "",
+          "introduce": "",
+          "count": 0,
+          "uint": "",
+          "id": 0,
+          "cover": "",
+          "type": 0,
+          "play_count": 0
+        },
+        "user": {
+          "uid": 0,
+          "avatar": "",
+          "name": "",
+          "fans": 0,
+          "has_sub": false,
+          "note": "",
+          "description": "",
+          "is_friend": false,
+          "is_pvip": false
+        },
+        "training": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "stage": 0,
+          "begin_time": 0,
+          "description": "",
+          "url": "",
+          "can_sign_up": false
+        },
+        "experience": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "description": "",
+          "url": ""
+        },
+        "infoq": {
+          "title": "",
+          "summary": "",
+          "author_name": "",
+          "pub_time": 0,
+          "url": ""
+        },
+        "path": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "series": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "score": 2
+      },
+      {
+        "item_type": "article",
+        "category": "",
+        "product": {
+          "title": "",
+          "subtitle": "",
+          "cover": "",
+          "total_lesson": 0,
+          "video_duration": "",
+          "uint": "",
+          "author_name": "",
+          "author_intro": "",
+          "id": 0,
+          "type": "",
+          "aid": 0,
+          "subscribe": false
+        },
+        "article": {
+          "title": "开篇词 | 想吃透<em>Go</em>并发编程，你得这样学！",
+          "id": 294849,
+          "video_time": "",
+          "video_duration": 0,
+          "video_cover": "https://static001.geekbang.org/resource/image/51/e2/51d5ef9fca56b575325c07a222b630e2.jpg",
+          "content": "每一位刚入门<em>Go</em>的程序员，在深入学习<em>Go</em>语言的时候，尤其是面对<em>Go</em>并发编程的时候，都会遇到这些问题。...",
+          "ctime": 1602492300,
+          "product_title": "Go 并发编程实战课",
+          "product_author": "晁岳攀（鸟窝）",
+          "author_introduction": "前微博技术专家，知名微服务框架 rpcx 作者",
+          "product_type": "c1",
+          "product_id": 100061801,
+          "subtitle": "鸟窝带你攻克Go并发编程难题",
+          "price": 9900,
+          "subscribe": false,
+          "is_preview": true,
+          "topic_id": 0,
+          "square_img": "",
+          "can_appoint": false
+        },
+        "collection": {
+          "title": "",
+          "subtitle": "",
+          "author_name": "",
+          "introduce": "",
+          "count": 0,
+          "uint": "",
+          "id": 0,
+          "cover": "",
+          "type": 0,
+          "play_count": 0
+        },
+        "user": {
+          "uid": 0,
+          "avatar": "",
+          "name": "",
+          "fans": 0,
+          "has_sub": false,
+          "note": "",
+          "description": "",
+          "is_friend": false,
+          "is_pvip": false
+        },
+        "training": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "stage": 0,
+          "begin_time": 0,
+          "description": "",
+          "url": "",
+          "can_sign_up": false
+        },
+        "experience": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "description": "",
+          "url": ""
+        },
+        "infoq": {
+          "title": "",
+          "summary": "",
+          "author_name": "",
+          "pub_time": 0,
+          "url": ""
+        },
+        "path": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "series": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "score": 2
+      },
+      {
+        "item_type": "article",
+        "category": "",
+        "product": {
+          "title": "",
+          "subtitle": "",
+          "cover": "",
+          "total_lesson": 0,
+          "video_duration": "",
+          "uint": "",
+          "author_name": "",
+          "author_intro": "",
+          "id": 0,
+          "type": "",
+          "aid": 0,
+          "subscribe": false
+        },
+        "article": {
+          "title": "24 | <em>Go</em>语言编译器：把它当作教科书吧",
+          "id": 266379,
+          "video_time": "",
+          "video_duration": 0,
+          "video_cover": "https://static001.geekbang.org/resource/image/b1/f6/b17622e466cc6cf7ad4c7d419655e8f6.jpg",
+          "content": "我之所以要来带你研究<em>Go</em>语言的编译器，一方面是因为<em>Go</em>现在确实非常流行，很多云端服务都用<em>Go</em>开发，Docker...",
+          "ctime": 1595779200,
+          "product_title": "编译原理实战课",
+          "product_author": "宫文学",
+          "author_introduction": "北京原点代码CEO",
+          "product_type": "c1",
+          "product_id": 100052801,
+          "subtitle": "带你吃透编译技术核心概念与算法",
+          "price": 12900,
+          "subscribe": false,
+          "is_preview": false,
+          "topic_id": 0,
+          "square_img": "",
+          "can_appoint": false
+        },
+        "collection": {
+          "title": "",
+          "subtitle": "",
+          "author_name": "",
+          "introduce": "",
+          "count": 0,
+          "uint": "",
+          "id": 0,
+          "cover": "",
+          "type": 0,
+          "play_count": 0
+        },
+        "user": {
+          "uid": 0,
+          "avatar": "",
+          "name": "",
+          "fans": 0,
+          "has_sub": false,
+          "note": "",
+          "description": "",
+          "is_friend": false,
+          "is_pvip": false
+        },
+        "training": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "stage": 0,
+          "begin_time": 0,
+          "description": "",
+          "url": "",
+          "can_sign_up": false
+        },
+        "experience": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "description": "",
+          "url": ""
+        },
+        "infoq": {
+          "title": "",
+          "summary": "",
+          "author_name": "",
+          "pub_time": 0,
+          "url": ""
+        },
+        "path": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "series": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "score": 2
+      },
+      {
+        "item_type": "article",
+        "category": "",
+        "product": {
+          "title": "",
+          "subtitle": "",
+          "cover": "",
+          "total_lesson": 0,
+          "video_duration": "",
+          "uint": "",
+          "author_name": "",
+          "author_intro": "",
+          "id": 0,
+          "type": "",
+          "aid": 0,
+          "subscribe": false
+        },
+        "article": {
+          "title": "02 | 环境准备：如何安装和配置一个基本的 <em>Go</em> 开发环境？",
+          "id": 378076,
+          "video_time": "",
+          "video_duration": 0,
+          "video_cover": "https://static001.geekbang.org/resource/image/b4/c5/b4197466075bc30dd7585aa38f0919c5.jpg",
+          "content": "/home/going/workspace/<em>golang</em>/<em>go</em>.workProtoBuf 编译环境安装接着，我们再来安装 protobuf 的编译器  ...",
+          "ctime": 1622017920,
+          "product_title": "Go 语言项目开发实战",
+          "product_author": "孔令飞",
+          "author_introduction": "腾讯云专家工程师，前Red Hat、联想云工程师",
+          "product_type": "c1",
+          "product_id": 100079601,
+          "subtitle": "带你从0到1实现一个企业级 Go 项目",
+          "price": 19900,
+          "subscribe": false,
+          "is_preview": false,
+          "topic_id": 0,
+          "square_img": "",
+          "can_appoint": false
+        },
+        "collection": {
+          "title": "",
+          "subtitle": "",
+          "author_name": "",
+          "introduce": "",
+          "count": 0,
+          "uint": "",
+          "id": 0,
+          "cover": "",
+          "type": 0,
+          "play_count": 0
+        },
+        "user": {
+          "uid": 0,
+          "avatar": "",
+          "name": "",
+          "fans": 0,
+          "has_sub": false,
+          "note": "",
+          "description": "",
+          "is_friend": false,
+          "is_pvip": false
+        },
+        "training": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "stage": 0,
+          "begin_time": 0,
+          "description": "",
+          "url": "",
+          "can_sign_up": false
+        },
+        "experience": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "description": "",
+          "url": ""
+        },
+        "infoq": {
+          "title": "",
+          "summary": "",
+          "author_name": "",
+          "pub_time": 0,
+          "url": ""
+        },
+        "path": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "series": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "score": 2
+      },
+      {
+        "item_type": "article",
+        "category": "",
+        "product": {
+          "title": "",
+          "subtitle": "",
+          "cover": "",
+          "total_lesson": 0,
+          "video_duration": "",
+          "uint": "",
+          "author_name": "",
+          "author_intro": "",
+          "id": 0,
+          "type": "",
+          "aid": 0,
+          "subscribe": false
+        },
+        "article": {
+          "title": "04｜初窥门径：一个<em>Go</em>程序的结构是怎样的？",
+          "id": 428267,
+          "video_time": "",
+          "video_duration": 0,
+          "video_cover": "https://static001.geekbang.org/resource/image/12/b2/129c30837058af98207e3450317757b2.jpg",
+          "content": "<em>Go</em> module构建模式是在<em>Go</em> 1.11版本正式引入的，为的是彻底解决<em>Go</em>项目复杂版本依赖的问题，在<em>Go</em> 1.16版本中...",
+          "ctime": 1634659200,
+          "product_title": "Tony Bai · Go语言第一课",
+          "product_author": "Tony Bai",
+          "author_introduction": "资深架构师，tonybai.com博主",
+          "product_type": "c1",
+          "product_id": 100093501,
+          "subtitle": "大师带路，快速上手Go语言",
+          "price": 12900,
+          "subscribe": false,
+          "is_preview": false,
+          "topic_id": 0,
+          "square_img": "",
+          "can_appoint": false
+        },
+        "collection": {
+          "title": "",
+          "subtitle": "",
+          "author_name": "",
+          "introduce": "",
+          "count": 0,
+          "uint": "",
+          "id": 0,
+          "cover": "",
+          "type": 0,
+          "play_count": 0
+        },
+        "user": {
+          "uid": 0,
+          "avatar": "",
+          "name": "",
+          "fans": 0,
+          "has_sub": false,
+          "note": "",
+          "description": "",
+          "is_friend": false,
+          "is_pvip": false
+        },
+        "training": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "stage": 0,
+          "begin_time": 0,
+          "description": "",
+          "url": "",
+          "can_sign_up": false
+        },
+        "experience": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "description": "",
+          "url": ""
+        },
+        "infoq": {
+          "title": "",
+          "summary": "",
+          "author_name": "",
+          "pub_time": 0,
+          "url": ""
+        },
+        "path": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "series": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "score": 2
+      },
+      {
+        "item_type": "article",
+        "category": "",
+        "product": {
+          "title": "",
+          "subtitle": "",
+          "cover": "",
+          "total_lesson": 0,
+          "video_duration": "",
+          "uint": "",
+          "author_name": "",
+          "author_intro": "",
+          "id": 0,
+          "type": "",
+          "aid": 0,
+          "subscribe": false
+        },
+        "article": {
+          "title": "腾讯研发数据报告：<em>Go</em>跻身腾讯编程语言Top5",
+          "id": 211236,
+          "video_time": "",
+          "video_duration": 0,
+          "video_cover": "https://static001.geekbang.org/resource/image/4y/da/4yyfb232bfbfbdcc6ed827c16b04a9da.jpg",
+          "content": " 随着腾讯云计算和大数据相关业务的迅速发展，<em>Go</em> 语言首次跻身腾讯编程语言排名 TOP5；整个 2019 年， 腾讯...",
+          "ctime": 1584028980,
+          "product_title": "极客视点",
+          "product_author": "极客时间编辑部",
+          "author_introduction": "极客时间编辑部",
+          "product_type": "p29",
+          "product_id": 100017001,
+          "subtitle": "提升你的技术洞见",
+          "price": 29900,
+          "subscribe": false,
+          "is_preview": true,
+          "topic_id": 0,
+          "square_img": "",
+          "can_appoint": false
+        },
+        "collection": {
+          "title": "",
+          "subtitle": "",
+          "author_name": "",
+          "introduce": "",
+          "count": 0,
+          "uint": "",
+          "id": 0,
+          "cover": "",
+          "type": 0,
+          "play_count": 0
+        },
+        "user": {
+          "uid": 0,
+          "avatar": "",
+          "name": "",
+          "fans": 0,
+          "has_sub": false,
+          "note": "",
+          "description": "",
+          "is_friend": false,
+          "is_pvip": false
+        },
+        "training": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "stage": 0,
+          "begin_time": 0,
+          "description": "",
+          "url": "",
+          "can_sign_up": false
+        },
+        "experience": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "description": "",
+          "url": ""
+        },
+        "infoq": {
+          "title": "",
+          "summary": "",
+          "author_name": "",
+          "pub_time": 0,
+          "url": ""
+        },
+        "path": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "series": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "score": 2
+      },
+      {
+        "item_type": "article",
+        "category": "",
+        "product": {
+          "title": "",
+          "subtitle": "",
+          "cover": "",
+          "total_lesson": 0,
+          "video_duration": "",
+          "uint": "",
+          "author_name": "",
+          "author_intro": "",
+          "id": 0,
+          "type": "",
+          "aid": 0,
+          "subscribe": false
+        },
+        "article": {
+          "title": "开篇词 | 从 0 开始搭建一个企业级 <em>Go</em> 应用",
+          "id": 378127,
+          "video_time": "",
+          "video_duration": 0,
+          "video_cover": "https://static001.geekbang.org/resource/image/b4/c5/b4197466075bc30dd7585aa38f0919c5.jpg",
+          "content": "你好，我是孔令飞，很高兴能在这里和你聊聊如何用 <em>Go</em> 构建企业级应用。在过去的 5 年里，我一直在腾讯使用 ...",
+          "ctime": 1622017740,
+          "product_title": "Go 语言项目开发实战",
+          "product_author": "孔令飞",
+          "author_introduction": "腾讯云专家工程师，前Red Hat、联想云工程师",
+          "product_type": "c1",
+          "product_id": 100079601,
+          "subtitle": "带你从0到1实现一个企业级 Go 项目",
+          "price": 19900,
+          "subscribe": false,
+          "is_preview": true,
+          "topic_id": 0,
+          "square_img": "",
+          "can_appoint": false
+        },
+        "collection": {
+          "title": "",
+          "subtitle": "",
+          "author_name": "",
+          "introduce": "",
+          "count": 0,
+          "uint": "",
+          "id": 0,
+          "cover": "",
+          "type": 0,
+          "play_count": 0
+        },
+        "user": {
+          "uid": 0,
+          "avatar": "",
+          "name": "",
+          "fans": 0,
+          "has_sub": false,
+          "note": "",
+          "description": "",
+          "is_friend": false,
+          "is_pvip": false
+        },
+        "training": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "stage": 0,
+          "begin_time": 0,
+          "description": "",
+          "url": "",
+          "can_sign_up": false
+        },
+        "experience": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "description": "",
+          "url": ""
+        },
+        "infoq": {
+          "title": "",
+          "summary": "",
+          "author_name": "",
+          "pub_time": 0,
+          "url": ""
+        },
+        "path": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "series": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "score": 2
+      },
+      {
+        "item_type": "article",
+        "category": "",
+        "product": {
+          "title": "",
+          "subtitle": "",
+          "cover": "",
+          "total_lesson": 0,
+          "video_duration": "",
+          "uint": "",
+          "author_name": "",
+          "author_intro": "",
+          "id": 0,
+          "type": "",
+          "aid": 0,
+          "subscribe": false
+        },
+        "article": {
+          "title": "观点：<em>Go</em>语言是谷歌的，而非社区的",
+          "id": 101736,
+          "video_time": "",
+          "video_duration": 0,
+          "video_cover": "https://static001.geekbang.org/resource/image/4y/da/4yyfb232bfbfbdcc6ed827c16b04a9da.jpg",
+          "content": "近日，在Twitter上出现了一个问题引发众人讨论：有很多人讨论<em>Go</em>的泛型，为什么不能出现一个类似于Java  ...",
+          "ctime": 1560873780,
+          "product_title": "极客视点",
+          "product_author": "极客时间编辑部",
+          "author_introduction": "极客时间编辑部",
+          "product_type": "p29",
+          "product_id": 100017001,
+          "subtitle": "提升你的技术洞见",
+          "price": 29900,
+          "subscribe": false,
+          "is_preview": true,
+          "topic_id": 0,
+          "square_img": "",
+          "can_appoint": false
+        },
+        "collection": {
+          "title": "",
+          "subtitle": "",
+          "author_name": "",
+          "introduce": "",
+          "count": 0,
+          "uint": "",
+          "id": 0,
+          "cover": "",
+          "type": 0,
+          "play_count": 0
+        },
+        "user": {
+          "uid": 0,
+          "avatar": "",
+          "name": "",
+          "fans": 0,
+          "has_sub": false,
+          "note": "",
+          "description": "",
+          "is_friend": false,
+          "is_pvip": false
+        },
+        "training": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "stage": 0,
+          "begin_time": 0,
+          "description": "",
+          "url": "",
+          "can_sign_up": false
+        },
+        "experience": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "description": "",
+          "url": ""
+        },
+        "infoq": {
+          "title": "",
+          "summary": "",
+          "author_name": "",
+          "pub_time": 0,
+          "url": ""
+        },
+        "path": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "series": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "score": 2
+      },
+      {
+        "item_type": "article",
+        "category": "",
+        "product": {
+          "title": "",
+          "subtitle": "",
+          "cover": "",
+          "total_lesson": 0,
+          "video_duration": "",
+          "uint": "",
+          "author_name": "",
+          "author_intro": "",
+          "id": 0,
+          "type": "",
+          "aid": 0,
+          "subscribe": false
+        },
+        "article": {
+          "title": "使用<em>Golang</em>两年后，我有这些感受",
+          "id": 238580,
+          "video_time": "",
+          "video_duration": 0,
+          "video_cover": "https://static001.geekbang.org/resource/image/4y/da/4yyfb232bfbfbdcc6ed827c16b04a9da.jpg",
+          "content": " 过去两年来，工程师 ryan wang 就职于 Assembled ，期间他一直使用 <em>Go</em> 工作。对于 <em>Go</em> 的使用体验，ryan  ...",
+          "ctime": 1589990580,
+          "product_title": "极客视点",
+          "product_author": "极客时间编辑部",
+          "author_introduction": "极客时间编辑部",
+          "product_type": "p29",
+          "product_id": 100017001,
+          "subtitle": "提升你的技术洞见",
+          "price": 29900,
+          "subscribe": false,
+          "is_preview": true,
+          "topic_id": 0,
+          "square_img": "",
+          "can_appoint": false
+        },
+        "collection": {
+          "title": "",
+          "subtitle": "",
+          "author_name": "",
+          "introduce": "",
+          "count": 0,
+          "uint": "",
+          "id": 0,
+          "cover": "",
+          "type": 0,
+          "play_count": 0
+        },
+        "user": {
+          "uid": 0,
+          "avatar": "",
+          "name": "",
+          "fans": 0,
+          "has_sub": false,
+          "note": "",
+          "description": "",
+          "is_friend": false,
+          "is_pvip": false
+        },
+        "training": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "stage": 0,
+          "begin_time": 0,
+          "description": "",
+          "url": "",
+          "can_sign_up": false
+        },
+        "experience": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "description": "",
+          "url": ""
+        },
+        "infoq": {
+          "title": "",
+          "summary": "",
+          "author_name": "",
+          "pub_time": 0,
+          "url": ""
+        },
+        "path": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "series": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "score": 2
+      },
+      {
+        "item_type": "article",
+        "category": "",
+        "product": {
+          "title": "",
+          "subtitle": "",
+          "cover": "",
+          "total_lesson": 0,
+          "video_duration": "",
+          "uint": "",
+          "author_name": "",
+          "author_intro": "",
+          "id": 0,
+          "type": "",
+          "aid": 0,
+          "subscribe": false
+        },
+        "article": {
+          "title": "<em>Go</em>语言发布8周年，官方称开始规划 <em>Go</em> 2",
+          "id": 1061,
+          "video_time": "",
+          "video_duration": 0,
+          "video_cover": "https://static001.geekbang.org/resource/image/4y/da/4yyfb232bfbfbdcc6ed827c16b04a9da.jpg",
+          "content": "博文称，<em>Go</em>已经被全世界的开发者接受，在世界范围内有大约100万<em>Go</em>开发者，它的流行度在过去8年中呈指数型...",
+          "ctime": 1511478004,
+          "product_title": "极客视点",
+          "product_author": "极客时间编辑部",
+          "author_introduction": "极客时间编辑部",
+          "product_type": "p29",
+          "product_id": 100017001,
+          "subtitle": "提升你的技术洞见",
+          "price": 29900,
+          "subscribe": false,
+          "is_preview": true,
+          "topic_id": 0,
+          "square_img": "",
+          "can_appoint": false
+        },
+        "collection": {
+          "title": "",
+          "subtitle": "",
+          "author_name": "",
+          "introduce": "",
+          "count": 0,
+          "uint": "",
+          "id": 0,
+          "cover": "",
+          "type": 0,
+          "play_count": 0
+        },
+        "user": {
+          "uid": 0,
+          "avatar": "",
+          "name": "",
+          "fans": 0,
+          "has_sub": false,
+          "note": "",
+          "description": "",
+          "is_friend": false,
+          "is_pvip": false
+        },
+        "training": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "stage": 0,
+          "begin_time": 0,
+          "description": "",
+          "url": "",
+          "can_sign_up": false
+        },
+        "experience": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "description": "",
+          "url": ""
+        },
+        "infoq": {
+          "title": "",
+          "summary": "",
+          "author_name": "",
+          "pub_time": 0,
+          "url": ""
+        },
+        "path": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "series": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "score": 2
+      },
+      {
+        "item_type": "article",
+        "category": "",
+        "product": {
+          "title": "",
+          "subtitle": "",
+          "cover": "",
+          "total_lesson": 0,
+          "video_duration": "",
+          "uint": "",
+          "author_name": "",
+          "author_intro": "",
+          "id": 0,
+          "type": "",
+          "aid": 0,
+          "subscribe": false
+        },
+        "article": {
+          "title": "<em>Go</em>语言发布8周年，官方称开始规划 <em>Go</em> 2",
+          "id": 1061,
+          "video_time": "",
+          "video_duration": 0,
+          "video_cover": "https://static001.geekbang.org/resource/image/4y/da/4yyfb232bfbfbdcc6ed827c16b04a9da.jpg",
+          "content": "博文称，<em>Go</em>已经被全世界的开发者接受，在世界范围内有大约100万<em>Go</em>开发者，它的流行度在过去8年中呈指数型...",
+          "ctime": 1511478004,
+          "product_title": "极客视点",
+          "product_author": "极客时间编辑部",
+          "author_introduction": "极客时间编辑部",
+          "product_type": "p29",
+          "product_id": 100017001,
+          "subtitle": "提升你的技术洞见",
+          "price": 29900,
+          "subscribe": false,
+          "is_preview": true,
+          "topic_id": 0,
+          "square_img": "",
+          "can_appoint": false
+        },
+        "collection": {
+          "title": "",
+          "subtitle": "",
+          "author_name": "",
+          "introduce": "",
+          "count": 0,
+          "uint": "",
+          "id": 0,
+          "cover": "",
+          "type": 0,
+          "play_count": 0
+        },
+        "user": {
+          "uid": 0,
+          "avatar": "",
+          "name": "",
+          "fans": 0,
+          "has_sub": false,
+          "note": "",
+          "description": "",
+          "is_friend": false,
+          "is_pvip": false
+        },
+        "training": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "stage": 0,
+          "begin_time": 0,
+          "description": "",
+          "url": "",
+          "can_sign_up": false
+        },
+        "experience": {
+          "title": "",
+          "cover": "",
+          "author_name": "",
+          "author_title": "",
+          "description": "",
+          "url": ""
+        },
+        "infoq": {
+          "title": "",
+          "summary": "",
+          "author_name": "",
+          "pub_time": 0,
+          "url": ""
+        },
+        "path": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "series": {
+          "id": 0,
+          "title": "",
+          "learn_count": 0,
+          "product_count": 0
+        },
+        "score": 2
+      }
+    ],
+    "ad": {
+      "banner": {
+        "group": "GO引流",
+        "image": "https://static001.geekbang.org/resource/image/67/aa/67feca6f1c308e0b6db3a11db5893eaa.jpeg",
+        "action": {
+          "type": 1,
+          "schema": "",
+          "params": "{\"pop_image\":\"https:\\/\\/static001.geekbang.org\\/resource\\/image\\/dc\\/88\\/dc126961061355c69f172b5fa7777388.png\"}"
+        }
+      }
+    },
+    "page": {
+      "more": true,
+      "count": 1214
+    }
+  },
+  "error": {},
+  "extra": {
+    "cost": 0.241803893,
+    "request-id": "853b061349c3bd0995225825d7cd3726@2@time"
+  }
+}
