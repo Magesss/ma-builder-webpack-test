@@ -21,8 +21,10 @@ jobs:
           install-yarn: true
           node-version: '16.13'
       - run: |
-          yarn -v
-        
+          node --version
+          npm install -D
+          cp ./test/smoke/template
+          npm install -D
 
 
 # Invoke jobs via workflows
