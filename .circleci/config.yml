@@ -26,6 +26,9 @@ jobs:
           cd ./test/smoke/template
           yarn install -D
           ls
+          cd ../../../
+          ls
+          npm run test
 
 
 # Invoke jobs via workflows
