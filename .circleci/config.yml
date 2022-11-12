@@ -21,8 +21,11 @@ jobs:
           install-yarn: true
           node-version: '16.13'
       - run: |
-          yarn -v
-        
+          node --version
+          yarn config set registry https://registry.npmmirror.com/
+          yarn install -D
+          cd ./test/smoke/template
+          yarn install -D
 
 
 # Invoke jobs via workflows
