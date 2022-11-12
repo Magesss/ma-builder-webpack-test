@@ -8,7 +8,7 @@ describe('webpack.base.js test case:', () => {
   console.log(baseConfig)
   it('entry', () => {
     // F:/code/webpack/code/my-project/builder-webpack/test/smoke/template/src/index/index.js
-    accert.equal(baseConfig.entry.index, '../smoke/template/src/index/index.js')
-    accert.equal(baseConfig.entry.search, '../smoke/template/src/search/index.js')
+    accert.equal(baseConfig.entry.index.includes('ma-builder-webpack-test/test/smoke/template/src/index/index.js'), false)
+    accert.equal(baseConfig.entry.search.includes('ma-builder-webpack-test/test/smoke/template/src/search/index.js'), false)
   })
 })
