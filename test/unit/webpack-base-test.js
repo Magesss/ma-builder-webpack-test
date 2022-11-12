@@ -5,10 +5,9 @@ describe('webpack.base.js test case:', () => {
 
   const baseConfig = require('../../lib/webpack.base')
 
-  console.log(baseConfig)
   it('entry', () => {
     // F:/code/webpack/code/my-project/builder-webpack/test/smoke/template/src/index/index.js
-    accert.equal(baseConfig.entry.index.includes('ma-builder-webpack-test/test/smoke/template/src/index/index.js'), false)
-    accert.equal(baseConfig.entry.search.includes('ma-builder-webpack-test/test/smoke/template/src/search/index.js'), false)
+    accert.equal(baseConfig.entry.index.indexOf('ma-builder-webpack-test/test/smoke/template/src/index/index.js') > -1, true)
+    accert.equal(baseConfig.entry.search.indexOf('ma-builder-webpack-test/test/smoke/template/src/search/index.js') > -1, true)
   })
 })
